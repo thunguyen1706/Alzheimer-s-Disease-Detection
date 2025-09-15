@@ -4,7 +4,7 @@
 - Our team members are:
   - Xuan Khoi Nguyen ([@Khoi-Nguyen-Xuan](https://github.com/Khoi-Nguyen-Xuan))
   - Tuan Anh Ngo ([@aanh1009](https://github.com/aanh1009))
-  - Hoang Minh Thu Nguyen ([@noisyflowergarden](https://github.com/noisyflowergarden))
+  - Hoang Minh Thu Nguyen ([@thunguyen1706](https://github.com/thunguyen1706))
   - Phuc Pham
 - Our research has **two objectives** :
 1. Implement and optimize the performance of BERT in the task of Alzheimer's disease detection based on language impairment through audio transcript. The dataset we use in the research is provided by the DementiaBank.
